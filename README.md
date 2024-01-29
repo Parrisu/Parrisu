@@ -2,7 +2,7 @@
 
 # Parris Jones
 <p>
-  Hey there! I'm a <strong>Full-Stack</strong> Developer <em>Bootcamp Graduate</em> from Skill Distillery. Besides the technologies I've learned there, I really got hooked in the world of programming.</p>
+  Hello! I'm a <strong>Full-Stack</strong> Developer <em>Bootcamp Graduate</em> from Aiea, Hawaii. Computers and software has always been a big part of my life and recently I got hooked in the world of programming.</p>
 <p>
   From joining the hardest branch in the military, to thinking like a programmer, I just can't seem to stop chasing the difficult path. But that's just my idea of fun.
 </p>
